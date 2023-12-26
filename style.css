@@ -10,7 +10,7 @@ html {
     max-width: 500px;
     margin: 0 auto;
     background: red;
-    width: 315px;
+    width: 310px;
     height: 100vh;
     background-image: url("background.jpg");
     background-position: center;
@@ -40,6 +40,7 @@ html {
     color: #fff;
     text-transform: capitalize;
     text-align: center;
+    margin-top: 25px;
 }
 
 .link {
